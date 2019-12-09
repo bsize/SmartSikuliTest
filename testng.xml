@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSteam"  >
+    <!-- suite name="Suite Name" -->
+    <test name="Test 1.Smart Sikuli" >
+        <parameter name="itemInMenu" value="itemInMenu.png" />
+        <parameter name="closeItemPicture" value="btnClose.png" />
+        <parameter name="partOfWorkSpacePicture" value="partOfWorkSpace.png" />
+        <parameter name="referencePicture" value="referencePicture.png" />
+        <parameter name="referencePicture" value="referencePicture.png" />
+        <parameter name="cleanArea" value="cleanArea.png" />
+        <parameter name="expectedResult" value="0" />
+        <classes>
+            <class name="SmartSikuliTest" />
+        </classes>
+    </test>
+</suite>

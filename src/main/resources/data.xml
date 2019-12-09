@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>application.properties</comment>
+    <entry key="itemInMenu">itemInMenu.png</entry>
+    <entry key="closeItemPicture">btnClose.png</entry>
+    <entry key="partOfWorkSpacePicture">partOfWorkSpace.png</entry>
+    <entry key="referencePicture">referencePicture.png</entry>
+</properties>
